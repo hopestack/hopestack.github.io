@@ -4,17 +4,24 @@
     <title>NH Tithes &amp; Offerings</title>
   </head>
   <body>
-  <form action="/your-server-side-code" method="POST">
-    <script
-      src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-      data-key="pk_test_CGTakebCYvf4DOJOoSxD6gzG"
-      data-amount="999"
-      data-name="Demo Site"
-      data-description="Widget"
-      data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-      data-locale="auto"
-      data-currency="jpy">
-    </script>
-  </form>
+    <h1>Tithes &amp; Offerings Test</h1>
+    <form action="/your-server-side-code" method="POST">
+      <script
+        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+        data-key="pk_test_CGTakebCYvf4DOJOoSxD6gzG"
+        data-amount="999"
+        data-name="Demo Site"
+        data-description="Widget"
+        data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+        data-locale="auto"
+        data-currency="jpy">
+      </script>
+    </form>
+    <h2>TODO:</h2>
+    <ul>
+      <li>Embed form</li>
+      <li>Custom amounts</li>
+      <li>Server-side endpoint</li>
+    </ul>
   </body>
 </html>

@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Experimental Projects for New Hope Tokyo church
 
-You can use the [editor on GitHub](https://github.com/hopestack/hopestack.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Visit us in [Ochanomizu, Tokyo](http://newhope.jp)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Services every Sunday at 11am & 2pm. Ask for Big Will.
 
-### Markdown
+### Online Tithing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Testing Stripe API as online tithing solution.
 
-```markdown
-Syntax highlighted code block
+### Live Stream Test
 
-# Header 1
-## Header 2
-### Header 3
+Testing Youtube Live as live stream provider.
 
-- Bulleted
-- List
+### ProPresenter 5 Lyrics Slide Generator
 
-1. Numbered
-2. List
+Tool to generate lyrics slides from plaintext files. 
 
-**Bold** and _Italic_ and `Code` text
+### ProPresenter 5 Bible Slide Generator
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hopestack/hopestack.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tool to add bible verses to slide file.

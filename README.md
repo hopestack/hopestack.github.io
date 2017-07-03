@@ -6,7 +6,7 @@ Services every Sunday at 11am & 2pm. Ask for Big Will.
 
 ### Online Tithing
 
-Testing Stripe API as online tithing solution.
+Testing Stripe API as [online tithing](/donate.html) solution.
 
 ### Live Stream Test
 

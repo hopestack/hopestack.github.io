@@ -10,7 +10,7 @@ Testing Stripe API as online tithing solution.
 
 ### Live Stream Test
 
-Testing Youtube Live as live stream provider.
+Testing Youtube Live as [live stream](/stream.html) provider.
 
 ### ProPresenter 5 Lyrics Slide Generator
 
